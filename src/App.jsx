@@ -32,6 +32,7 @@ export default function App() {
     let temp = [...people];
     temp = temp.filter(x => x.id !== id);
     setPeople(temp);
+    a
 }
 
 
